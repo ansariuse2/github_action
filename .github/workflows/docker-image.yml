@@ -33,4 +33,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/your-repo-name:${{ env.TAG }}
+          tags: ansariuse/github_action_repo:${{ env.TAG }}
